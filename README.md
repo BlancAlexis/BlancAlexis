@@ -8,11 +8,7 @@ I'm currently in my 3rd year at BUT Informatique and happy to be a work-study st
 <br>
 
 During my studies, I've had the opportunity to work on several mobile development projects:
-<br>
-<br>
-Since à few week i started a new project to show my abylities in Android development, i try to cover all Android Kotlin essential with Jetpack Compose
 
-https://github.com/BlancAlexis/PokedexPokemon
 <br>
 Like Vegetabilis auditor, on my 2nd year at BUT. 
 https://github.com/BlancAlexis/VegetabilisAuditor
