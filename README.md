@@ -2,12 +2,17 @@
 
 <p><span style="font-family: &quot;comic sans ms&quot;, sans-serif; color: #ff0000; font-size: medium;">Hello, 
 <br>
-my name is Blanc Alexis, I'm 21 and I love mobile development.
+my name is Blanc Alexis, I'm 22 and I love mobile development.
 <br>
 I'm currently in my 3rd year at BUT Informatique and happy to be a work-study student in Android mobile development at Wimova.
 <br>
 
-During my studies, I've had the opportunity to work on several mobile development projects: 
+During my studies, I've had the opportunity to work on several mobile development projects:
+<br>
+<br>
+Since à few week i started a new project to show my abylities in Android development, i try to cover all Android Kotlin essential with Jetpack Compose
+
+https://github.com/BlancAlexis/PokedexPokemon
 <br>
 Like Vegetabilis auditor, on my 2nd year at BUT. 
 https://github.com/BlancAlexis/VegetabilisAuditor
