@@ -35,10 +35,6 @@ I've been a car fan since I was very young.
 <a href="https://www.linkedin.com/in/alexis--blanc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/BlancAlexis"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<h2>Stats</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlancAlexis\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
 <h2>Time</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlancAlexis&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
