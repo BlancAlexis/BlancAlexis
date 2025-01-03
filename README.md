@@ -4,23 +4,8 @@
 <br>
 my name is Blanc Alexis, I'm 22 and I love mobile development.
 <br>
-I'm currently in my 3rd year at BUT Informatique and happy to be a work-study student in Android mobile development at Wimova.
-<br>
+Find my CV on https://blancalexis.github.io/
 
-During my studies, I've had the opportunity to work on several mobile development projects:
-
-<br>
-Like Vegetabilis auditor, on my 2nd year at BUT. 
-https://github.com/BlancAlexis/VegetabilisAuditor
-<br>
-Or AMES, an horror game developed in Flutter for my 3rd year final project.
-https://github.com/BlancAlexis/A.M.E.S
-<br>
-I also like Internet Of Things om I've had a few projects on it
-<br>
-
-
-I've been a car fan since I was very young.
 </span></p>
 
 <h2>Main Languages</h2>
@@ -35,8 +20,3 @@ I've been a car fan since I was very young.
 <a href="https://www.linkedin.com/in/alexis--blanc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/BlancAlexis"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<h2>Time</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlancAlexis&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>Many of my repositories are in private</p>
